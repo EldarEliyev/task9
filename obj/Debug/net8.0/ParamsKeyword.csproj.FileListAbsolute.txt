@@ -1,0 +1,14 @@
+C:\Users\ELDAR\source\repos\ParamsKeyword\ParamsKeyword\bin\Debug\net8.0\ParamsKeyword.exe
+C:\Users\ELDAR\source\repos\ParamsKeyword\ParamsKeyword\bin\Debug\net8.0\ParamsKeyword.deps.json
+C:\Users\ELDAR\source\repos\ParamsKeyword\ParamsKeyword\bin\Debug\net8.0\ParamsKeyword.runtimeconfig.json
+C:\Users\ELDAR\source\repos\ParamsKeyword\ParamsKeyword\bin\Debug\net8.0\ParamsKeyword.dll
+C:\Users\ELDAR\source\repos\ParamsKeyword\ParamsKeyword\bin\Debug\net8.0\ParamsKeyword.pdb
+C:\Users\ELDAR\source\repos\ParamsKeyword\ParamsKeyword\obj\Debug\net8.0\ParamsKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELDAR\source\repos\ParamsKeyword\ParamsKeyword\obj\Debug\net8.0\ParamsKeyword.AssemblyInfoInputs.cache
+C:\Users\ELDAR\source\repos\ParamsKeyword\ParamsKeyword\obj\Debug\net8.0\ParamsKeyword.AssemblyInfo.cs
+C:\Users\ELDAR\source\repos\ParamsKeyword\ParamsKeyword\obj\Debug\net8.0\ParamsKeyword.csproj.CoreCompileInputs.cache
+C:\Users\ELDAR\source\repos\ParamsKeyword\ParamsKeyword\obj\Debug\net8.0\ParamsKeyword.dll
+C:\Users\ELDAR\source\repos\ParamsKeyword\ParamsKeyword\obj\Debug\net8.0\refint\ParamsKeyword.dll
+C:\Users\ELDAR\source\repos\ParamsKeyword\ParamsKeyword\obj\Debug\net8.0\ParamsKeyword.pdb
+C:\Users\ELDAR\source\repos\ParamsKeyword\ParamsKeyword\obj\Debug\net8.0\ParamsKeyword.genruntimeconfig.cache
+C:\Users\ELDAR\source\repos\ParamsKeyword\ParamsKeyword\obj\Debug\net8.0\ref\ParamsKeyword.dll
